@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Composicion\bin\Debug\net8.0\Composicion.exe
+C:\Users\Usuario\Desktop\Composicion\bin\Debug\net8.0\Composicion.deps.json
+C:\Users\Usuario\Desktop\Composicion\bin\Debug\net8.0\Composicion.runtimeconfig.json
+C:\Users\Usuario\Desktop\Composicion\bin\Debug\net8.0\Composicion.dll
+C:\Users\Usuario\Desktop\Composicion\bin\Debug\net8.0\Composicion.pdb
+C:\Users\Usuario\Desktop\Composicion\obj\Debug\net8.0\Composicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Composicion\obj\Debug\net8.0\Composicion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Composicion\obj\Debug\net8.0\Composicion.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Composicion\obj\Debug\net8.0\Composicion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Composicion\obj\Debug\net8.0\Composicion.dll
+C:\Users\Usuario\Desktop\Composicion\obj\Debug\net8.0\refint\Composicion.dll
+C:\Users\Usuario\Desktop\Composicion\obj\Debug\net8.0\Composicion.pdb
+C:\Users\Usuario\Desktop\Composicion\obj\Debug\net8.0\Composicion.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Composicion\obj\Debug\net8.0\ref\Composicion.dll
